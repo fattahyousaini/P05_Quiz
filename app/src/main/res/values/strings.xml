@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P05-Quiz</string>
+    <string name="TT">Ticket Type</string>
+    <string name="TT2">Number of Pax</string>
+    <string name="CB1">One Way</string>
+    <string name="CB2">Round Trip</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+</resources>
